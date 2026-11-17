@@ -1,0 +1,16 @@
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\bin\Debug\net11.0\SaldoBancario.exe
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\bin\Debug\net11.0\SaldoBancario.deps.json
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\bin\Debug\net11.0\SaldoBancario.runtimeconfig.json
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\bin\Debug\net11.0\SaldoBancario.runtimeconfig.dev.json
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\bin\Debug\net11.0\SaldoBancario.dll
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\bin\Debug\net11.0\SaldoBancario.pdb
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.AssemblyInfoInputs.cache
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.AssemblyInfo.cs
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.dll
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\refint\SaldoBancario.dll
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.pdb
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBancario.genruntimeconfig.cache
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\ref\SaldoBancario.dll
+C:\Users\joaom\Desktop\treinamento5\SaldoBancario\obj\Debug\net11.0\SaldoBan.FF43023E.Up2Date

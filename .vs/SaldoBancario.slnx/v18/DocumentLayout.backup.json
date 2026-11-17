@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaom\\Desktop\\treinamento5\\SaldoBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4B2B7A-83FA-C220-E146-E42D8645F352}|SaldoBancario.csproj|c:\\users\\joaom\\desktop\\treinamento5\\saldobancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4B2B7A-83FA-C220-E146-E42D8645F352}|SaldoBancario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4B2B7A-83FA-C220-E146-E42D8645F352}|SaldoBancario.csproj|c:\\users\\joaom\\desktop\\treinamento5\\saldobancario\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4B2B7A-83FA-C220-E146-E42D8645F352}|SaldoBancario.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\treinamento5\\SaldoBancario\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\treinamento5\\SaldoBancario\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancaria.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T23:17:44.489Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\treinamento5\\SaldoBancario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\treinamento5\\SaldoBancario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T23:17:12.032Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
