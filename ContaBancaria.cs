@@ -36,5 +36,10 @@
     {
         return Saldo;
     }
+
+    public override string ToString() 
+    {
+        return $"\nTitular: {Titular}\nSaldo: {Saldo}";
+    }
 }
 

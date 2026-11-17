@@ -12,6 +12,7 @@ ContaBancaria CriarConta()
 
     return cb;
 }
+
 Console.WriteLine("Saldo Incial: ");
 Console.WriteLine(cb.ExibirSaldo()); 
 Console.ReadKey();
@@ -26,3 +27,4 @@ Console.WriteLine("Saque de 10,25");
 cb.Sacar(10.25);
 Console.WriteLine(cb.ExibirSaldo());
 Console.ReadKey();
+Console.WriteLine(cb.ToString());
